@@ -1,0 +1,18 @@
+## Archive
+_archive/*
+
+## LaTeX files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+## Course Offerings
+offerings/*
+
+## Past Lectures
+lectures/_archive/*
